@@ -1,2 +1,3 @@
-# notebooks
-Jupyter Notebooks for LLMs using Cohere, HuggingFace, LangChain, and OpenAI
+# Jupyter Notebooks using LLMs 
+
+### 01. Classification using Embeddings
