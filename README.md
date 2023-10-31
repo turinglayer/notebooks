@@ -26,3 +26,7 @@ Tags: [multiclass-classification] [embeddings] [hyperparameter-tuning] [random-f
 This notebook illustrates how to train a **random-forest** model with **hyperparameter tuning** for multiclass classification. It assesses the perfomance of combining said **random-forest** with:
 - transformer-based embeddings using **[Cohere](https://docs.cohere.com/reference/embed)**.
 - bag-of-words vectorizer using **[CountVectorizer](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.CountVectorizer.html)**.
+
+<p align="center">
+  <img src="./static/randomforest.png">
+</p>
