@@ -18,8 +18,8 @@ This notebook illustrates how to perform **binary text classification** with jus
 
 ### 02. Multiclass Classification w/ Random Forest and Transformer-based Embeddings 
 
-[[Notebook]](./02_multi_classification_random_forest.ipynb)
-[[Open in Colab]](https://colab.research.google.com/github/turinglayer/notebooks/blob/main/02_multi_classification_random_forest.ipynb)
+[[Notebook]](./02_multiclass_classification_random_forest.ipynb)
+[[Open in Colab]](https://colab.research.google.com/github/turinglayer/notebooks/blob/main/02_multiclass_classification_random_forest.ipynb)
 
 Tags: [multiclass-classification] [embeddings] [hyperparameter-tuning] [random-forest] [cohere] [countvectorizer]
 
