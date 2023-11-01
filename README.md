@@ -1,4 +1,4 @@
-# Jupyter Notebooks using LLMs 
+# Notebooks for ML Tasks w/ Scikit and LLMs 
 
 ### 01. Binary Classification w/ SVM and Transformer-based Embeddings 
 
@@ -30,3 +30,14 @@ This notebook illustrates how to train a **random-forest** model with **hyperpar
 <p align="center">
   <img src="./static/randomforest.png">
 </p>
+
+### 03. Multiclass Classification w/ Cohere-Classify Endpoint
+
+[[Notebook]](./03_multiclass_classification_cohere_classify.ipynb)
+[[Open in Colab]](https://colab.research.google.com/github/turinglayer/notebooks/blob/main/03_multiclass_classification_cohere_classify.ipynb)
+
+Tags: [multiclass-classification] [cohere] 
+
+This notebook illustrates how to use [Cohere Classify](https://docs.cohere.com/reference/classify) for multiclass classification. It achieves `95% accuracy` with approximately `200 samples per class`.
+
+
