@@ -39,6 +39,8 @@ This notebook illustrates how to train a `random-forest` model with `hyperparame
   <img src="./static/randomforest.png">
 </p>
 
+It achieves `88.80%` accuracy with approximately `200 training samples per class`.
+
 ```python
 Accuracy: 88.80%
 
@@ -61,7 +63,7 @@ weighted avg       0.89      0.89      0.89       250
 
 Tags: `[multiclass-classification]` `[cohere]`
 
-This notebook illustrates how to use [Cohere Classify](https://docs.cohere.com/reference/classify) for multiclass classification. It achieves nearly `95% accuracy` with approximately `200 samples per class`.
+This notebook illustrates how to use [Cohere Classify](https://docs.cohere.com/reference/classify) for multiclass classification. It achieves `94.74% accuracy` with approximately `200 training samples per class`.
 
 ```python
 Accuracy: 94.74%
