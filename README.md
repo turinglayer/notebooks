@@ -7,10 +7,18 @@
 
 Tags: `[binary-classification]` `[embeddings]` `[svm]` `[cohere]` `[openai]` `[tfidfvectorizer]`
 
-This notebook illustrates how to perform `binary text classification` with just a few hundred samples. It trains a basic `Support Vector Machine` with a collection of labeled financial sentences (375 training samples), and compares its accuracy with: 
+This notebook illustrates how to perform `binary text classification` with just a few hundred samples. It trains a basic `Support Vector Machine` with a collection of labeled financial sentences (400 training samples), and compares its accuracy with: 
 - transformer-based embeddings using [Cohere](https://docs.cohere.com/reference/embed).
 - transformer-based embeddings using [OpenAI](https://platform.openai.com/docs/api-reference/embeddings).
 - frequency-based embeddings using [TfidfVectorizer](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html).
+
+```python
+SVM Binary-Text Classification Accuracy (550 samples):
+------------------------------------------------------
+w/ Cohere 'embed-english-v3.0': 94.93%
+w/ OpenAI 'text-embedding-ada-002': 89.13%
+w/ TfidfVectorizer: 65.22%
+```
 
 <p align="center">
   <img src="./static/embeddings.png">
