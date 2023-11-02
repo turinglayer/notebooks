@@ -61,7 +61,7 @@ weighted avg       0.89      0.89      0.89       250
 
 Tags: `[multiclass-classification]` `[cohere]`
 
-This notebook illustrates how to use [Cohere Classify](https://docs.cohere.com/reference/classify) for multiclass classification. It achieves `95% accuracy` with approximately `200 samples per class`.
+This notebook illustrates how to use [Cohere Classify](https://docs.cohere.com/reference/classify) for multiclass classification. It achieves nearly `95% accuracy` with approximately `200 samples per class`.
 
 ```python
 Accuracy: 94.74%
