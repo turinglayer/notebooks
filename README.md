@@ -31,7 +31,7 @@ This notebook illustrates how to train a `random-forest` model with `hyperparame
   <img src="./static/randomforest.png">
 </p>
 
-### 03. Multiclass Classification w/ Cohere-Classify Endpoint
+### 03. Multiclass Classification w/ Cohere-Classify
 
 [[Notebook]](./03_multiclass_classification_cohere_classify.ipynb)
 [[Open in Colab]](https://colab.research.google.com/github/turinglayer/notebooks/blob/main/03_multiclass_classification_cohere_classify.ipynb)
