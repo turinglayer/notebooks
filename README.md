@@ -79,3 +79,16 @@ Accuracy: 94.74%
    macro avg       0.94      0.95      0.94        95
 weighted avg       0.95      0.95      0.95        95
 ```
+
+### 04. OpenAI Functions w/ Langchain and Pydantic
+
+[[Notebook]](./04_openai_functions_langchain_pydantic.ipynb)
+[[Open in Colab]](https://colab.research.google.com/github/turinglayer/notebooks/blob/main/04_openai_functions_langchain_pydantic.ipynb)
+
+Tags: `[openai]` `[langchain]` `[pydantic]` `[function-calling]` `[function-creation]`
+
+This notebook demonstrates how to combine [LangChain](https://www.langchain.com/) and [Pydantic](https://docs.pydantic.dev/) as an abstraction layer to facilitate the process of creating `OpenAI` `functions` and handling `JSON` formatting.
+
+<p align="center">
+  <img src="./static/openai_functions_langchain_pydantic.png">
+</p>
