@@ -102,7 +102,7 @@ Tags: `[openai]` `[named-entity-recognition]` `[function-calling]` `[function-cr
 
 `Named Entity Recognition` (NER) is a `Natural Language Processing` task that identifies and classifies named entities (NE) into predefined semantic categories (such as persons, organizations, locations, events, time expressions, and quantities). By converting raw text into structured information, NER makes data more actionable, facilitating tasks like information extraction, data aggregation, analytics, and social media monitoring.
 
-This notebook demonstrates how to carry out NER with [OpenAI Chat Completion](https://platform.openai.com/docs/api-reference/chat) and [functions-calling](https://platform.openai.com/docs/guides/gpt/function-calling) to enrich a block of text with links to a knowledge base such as Wikipedia,
+This notebook demonstrates how to carry out NER with [OpenAI Chat Completion](https://platform.openai.com/docs/api-reference/chat) and [functions-calling](https://platform.openai.com/docs/guides/gpt/function-calling) to enrich a block of text with links to a knowledge base such as Wikipedia.
 
 <p align="center">
   <img src="./static/ner_text_enrich_wikipedia.png">
