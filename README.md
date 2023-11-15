@@ -92,3 +92,20 @@ This notebook demonstrates how to combine [LangChain](https://www.langchain.com/
 <p align="center">
   <img src="./static/openai_functions_langchain_pydantic.png">
 </p>
+
+### 05. Named Entity Recognition to Enrich Text
+
+[[Notebook]](./05_ner_text_enrich.ipynb)
+[[Open in Colab]](https://colab.research.google.com/github/turinglayer/notebooks/blob/main/05_ner_text_enrich.ipynb)
+
+Tags: `[openai]` `[named-entity-recognition]` `[function-calling]` `[function-creation]` `[wikipedia]`
+
+`Named Entity Recognition` (NER) is a `Natural Language Processing` task that identifies and classifies named entities (NE) into predefined semantic categories (such as persons, organizations, locations, events, time expressions, and quantities). By converting raw text into structured information, NER makes data more actionable, facilitating tasks like information extraction, data aggregation, analytics, and social media monitoring.
+
+This notebook demonstrates how to carry out NER with [OpenAI Chat Completion](https://platform.openai.com/docs/api-reference/chat) and [functions-calling](https://platform.openai.com/docs/guides/gpt/function-calling) to enrich a block of text with links to a knowledge base such as Wikipedia,
+
+<p align="center">
+  <img src="./static/ner_text_enrich_wikipedia.png">
+</p>
+
+*This notebook is also available at [openai/openai-cookbook/examples/Named_Entity_Recognition_to_enrich_text.ipynb](https://github.com/openai/openai-cookbook/blob/main/examples/Named_Entity_Recognition_to_enrich_text.ipynb)*
