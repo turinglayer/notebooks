@@ -109,3 +109,16 @@ This notebook demonstrates how to carry out NER with [OpenAI Chat Completion](ht
 </p>
 
 *This notebook is also available at [openai/openai-cookbook/examples/Named_Entity_Recognition_to_enrich_text.ipynb](https://github.com/openai/openai-cookbook/blob/main/examples/Named_Entity_Recognition_to_enrich_text.ipynb)*
+
+### 06. Clustering and Topic Modeling of arXiv dataset (10k) w/ Cohere Embedv3 | Pydantic | OpenAI | LangChain
+
+[[Notebook]](./06_clustering_topicmodeling_arxiv.ipynb)
+[[Open in Colab]](https://colab.research.google.com/github/turinglayer/notebooks/blob/main/06_clustering_topicmodeling_arxiv.ipynb)
+
+Tags: `[clustering]` `[cohere]` `[embeddings]` `[HDBSCAN]` `[langchain]` `[pydantic]` `[topic-modeling]` `[openai]`
+
+We combine advanced Large Langaguge Models such as [Cohere Embedv3](https://txt.cohere.com/introducing-embed-v3/) and [GPT-4](https://platform.openai.com/docs/models/gpt-4-and-gpt-4-turbo) with [HDBSCAN](https://en.wikipedia.org/wiki/HDBSCAN), [Pydantic](https://docs.pydantic.dev/) and [LangChain](https://www.langchain.com/) for [Clustering](https://en.wikipedia.org/wiki/Cluster_analysis) and [Topic Modeling](https://en.wikipedia.org/wiki/Topic_model). Our playground is a self-created expansive [arXiv dataset](https://huggingface.co/datasets/dcarpintero/arxiv.cs.CL.embedv3.clustering.medium) comprising 10,000 research articles from Computational Linguistics (Natural Language Processing) published between 2019 and 2023. To measure the clustering and topic modeling effectiveness, we visualize the outcomes after applying [UMAP](https://en.wikipedia.org/wiki/Uniform_Manifold_Approximation_and_Projection) dimensionality reduction.
+
+<p align="center">
+  <img src="./static/10K_arXiv_clustering.png">
+</p>
