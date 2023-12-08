@@ -1,4 +1,14 @@
-# Notebooks for ML Tasks w/ Scikit and LLMs 
+# Notebooks for ML Tasks w/ Scikit and LLMs
+
+Jupyter notebooks to apply and experiment with ML and  Large Language Models (LLMs) provided by industry leaders such as Cohere, HuggingFace, LangChain, and OpenAI.
+
+- [01. Binary Classification w/ SVM and Transformer-based Embeddings](https://github.com/turinglayer/notebooks#01-binary-classification-w-svm-and-transformer-based-embeddings)
+- [02. Multiclass Classification w/ Random Forest and Transformer-based Embeddings](https://github.com/turinglayer/notebooks#02-multiclass-classification-w-random-forest-and-transformer-based-embeddings)
+- [03. Multiclass Classification w/ Cohere-Classify](https://github.com/turinglayer/notebooks#03-multiclass-classification-w-cohere-classify)
+- [04. OpenAI Functions w/ Langchain and Pydantic](https://github.com/turinglayer/notebooks#04-openai-functions-w-langchain-and-pydantic)
+- [05. Named Entity Recognition to Enrich Text](https://github.com/turinglayer/notebooks#05-named-entity-recognition-to-enrich-text)
+- [06. Clustering and Topic Modeling of arXiv dataset (10k) w/ Cohere Embedv3 | Pydantic | OpenAI | LangChain](https://github.com/turinglayer/notebooks#05-named-entity-recognition-to-enrich-text)
+
 
 ### 01. Binary Classification w/ SVM and Transformer-based Embeddings 
 
