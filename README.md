@@ -7,7 +7,8 @@ Jupyter notebooks to apply and experiment with ML and  Large Language Models (LL
 - [03. Multiclass Classification w/ Cohere-Classify](https://github.com/turinglayer/notebooks#03-multiclass-classification-w-cohere-classify)
 - [04. OpenAI Functions w/ Langchain and Pydantic](https://github.com/turinglayer/notebooks#04-openai-functions-w-langchain-and-pydantic)
 - [05. Named Entity Recognition to Enrich Text](https://github.com/turinglayer/notebooks#05-named-entity-recognition-to-enrich-text)
-- [06. Clustering and Topic Modeling of arXiv dataset (10k) w/ Cohere Embedv3 | Pydantic | OpenAI | LangChain](https://github.com/turinglayer/notebooks#05-named-entity-recognition-to-enrich-text)
+- [06. Clustering and Topic Modeling of arXiv dataset (10k) w/ Cohere Embedv3 | Pydantic | OpenAI | LangChain](https://github.com/turinglayer/notebooks#06-clustering-topicmodeling-arxiv)
+- [07. Transformers Self-Attention](https://github.com/turinglayer/notebooks#07-transformers-selfattention)
 
 
 ### 01. Binary Classification w/ SVM and Transformer-based Embeddings 
@@ -131,4 +132,17 @@ We combine the advanced [Cohere](https://txt.cohere.com/introducing-embed-v3/) a
 
 <p align="center">
   <img src="./static/10K_arXiv_clustering.png">
+</p>
+
+### 07. Transformers Self-Attention
+
+[[Notebook]](./07_transformers_selfattention.ipynb)
+[[Open in Colab]](https://colab.research.google.com/github/turinglayer/notebooks/blob/main/07_transformers_selfattention.ipynb)
+
+Transformers have revolutionized the way we approach tasks in NLP. At its core lies self-attention, a mechanism that allows models to weigh the importance of each sequence element (token embeddings). This basic notebook explores the intricacies of self-attention by providing [bertviz](https://github.com/jessevig/bertviz) visualizations on model, heads and neurons.
+
+Tags: `[bertviz]` `[transformers]` `[tokenizer]` `[self-attention]`
+
+<p align="center">
+  <img src="./static/transformers/self_attention.png">
 </p>
