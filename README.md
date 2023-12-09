@@ -7,8 +7,8 @@ Jupyter notebooks to apply and experiment with ML and  Large Language Models (LL
 - [03. Multiclass Classification w/ Cohere-Classify](https://github.com/turinglayer/notebooks#03-multiclass-classification-w-cohere-classify)
 - [04. OpenAI Functions w/ Langchain and Pydantic](https://github.com/turinglayer/notebooks#04-openai-functions-w-langchain-and-pydantic)
 - [05. Named Entity Recognition to Enrich Text](https://github.com/turinglayer/notebooks#05-named-entity-recognition-to-enrich-text)
-- [06. Clustering and Topic Modeling of arXiv dataset (10k) w/ Cohere Embedv3 | Pydantic | OpenAI | LangChain](https://github.com/turinglayer/notebooks#06-clustering-topicmodeling-arxiv)
-- [07. Transformers Self-Attention](https://github.com/turinglayer/notebooks#07-transformers-selfattention)
+- [06. Clustering and Topic Modeling of arXiv dataset (10k) w/ Cohere Embedv3 | Pydantic | OpenAI | LangChain](https://github.com/turinglayer/notebooks#06-clustering-and-topic-modeling-of-arxiv-dataset-10k-w-cohere-embedv3--pydantic--openai--langchain)
+- [07. Transformers Self-Attention](https://github.com/turinglayer/notebooks#07-transformers-self-attention)
 
 
 ### 01. Binary Classification w/ SVM and Transformer-based Embeddings 
